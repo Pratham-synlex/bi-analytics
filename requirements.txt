@@ -1,0 +1,7 @@
+haystack-ai
+python-dotenv
+gradio
+pandas
+plotly
+openpyxl
+statsmodels
